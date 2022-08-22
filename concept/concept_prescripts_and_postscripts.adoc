@@ -50,6 +50,7 @@ For Windows, the timeout is set to 15 minutes and cannot be modified.
 
 For UNIX, the timeout is set to 60 seconds, by default. You can modify the timeout value.
 
+
 == Script output
 
 The default directory for the Windows prescripts and postscripts output files is Windows\System32.

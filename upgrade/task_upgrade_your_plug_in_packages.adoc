@@ -24,10 +24,6 @@ The value of JAVA_HOME gets updated when the plug-in is upgraded or when the Sna
 +
 Examples of SnapCenter configuration files: SnapDriveService.exe.config, SMCoreServiceHost.exe.config, and so on.
 
-*About this task*
-
-The upgrade procedure places your Windows, Linux, or AIX host in "`maintenance`" mode, which prevents the host from running any scheduled jobs.
-
 *Steps*
 
 . In the left navigation pane, click *Hosts* > *Managed Hosts*.

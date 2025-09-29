@@ -4,6 +4,7 @@ sidebar: sidebar
 keywords: host utilities, Microsoft DSM, Windows MPIO
 summary: 'If your SnapCenter host is part of a FC/iSCSI environment, you might need to install additional software on the system to enable access to ONTAP storage.'
 ---
+
 = SAN host requirements
 :icons: font
 :imagesdir: ../media/

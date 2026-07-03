@@ -38,7 +38,7 @@ https://www.netapp.com/company/legal/privacy-policy/[https://www.netapp.com/comp
 
 Important information about localized content.
 
-https://www.netapp.com/company/legal/machine-translation/[https://www.netapp.com/company/legal/machine-translation/]
+https://www.netapp.com/company/legal/machine-translation/[https://www.netapp.com/company/legal/machine-translation/^]
 
 == Open source
 

@@ -47,8 +47,23 @@ a| 4.6.x
 a|
 * 4.5.x
 * 4.6.x
+
+a| 4.6.x
+
+a| 4.7
+
+a|
+* 4.6.x
+* 4.7
 |===
 
-IMPORTANT: For example, if you are on SnapCenter version 4.3.x and want to upgrade to 4.6.x, you should first upgrade to 4.5.x and then do a rolling upgrade to 4.6.x.
 
-NOTE: For information about upgrading the SnapCenter Plug-in for VMware vSphere, see https://docs.netapp.com/us-en/sc-plugin-vmware-vsphere/scpivs44_upgrade.html[Upgrade SnapCenter Plug-in for VMware vSphere^].
+[NOTE] 
+========
+* SnapCenter supports direct upgrades only along the paths shown in the table above. If you need to upgrade to a version that is not directly supported from your current version, you must perform a series of incremental upgrades. For example, if you are on SnapCenter version 4.3.x and want to upgrade to 4.6.x, you should first upgrade to 4.5.x and then do a rolling upgrade to 4.6.x. This approach ensures compatibility between versions and prevents issues that can occur when skipping intermediate releases. Always verify the supported upgrade path in the table before beginning your upgrade.
+
+* For information about upgrading the SnapCenter Plug-in for VMware vSphere, see link:https://docs.netapp.com/us-en/sc-plugin-vmware-vsphere/scpivs44_upgrade.html[Upgrade SnapCenter Plug-in for VMware vSphere^]
+
+========
+
+// SNAPCDOC-409, 2026-AUG-13
